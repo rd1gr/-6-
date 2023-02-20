@@ -1,0 +1,15 @@
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\bin\Debug\net6.0\Programs1.cs.exe
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\bin\Debug\net6.0\Programs1.cs.deps.json
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\bin\Debug\net6.0\Programs1.cs.runtimeconfig.json
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\bin\Debug\net6.0\Programs1.cs.dll
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\bin\Debug\net6.0\Programs1.cs.pdb
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.csproj.AssemblyReference.cache
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.AssemblyInfoInputs.cache
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.AssemblyInfo.cs
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.dll
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\refint\Programs1.cs.dll
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.pdb
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\Programs1.cs.genruntimeconfig.cache
+C:\Users\Первый\Desktop\Итоговый проект к уроку 6\Programs1.cs\obj\Debug\net6.0\ref\Programs1.cs.dll
